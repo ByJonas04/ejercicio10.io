@@ -32,6 +32,7 @@ Soy un mago graduado de la *Escuela de Magia y Hechicería de Hogwarts* con expe
 ## **Logros** :trophy:
 - Miembro destacado del equipo que **derrotó a Lord Voldemort** en la *Batalla de Hogwarts*.
 - *Orden de Merlín, Primera Clase*, por valentía excepcional en la lucha contra las artes oscuras.
+- Mejor jugador de la temporada 21/22 de rugby
 
 ## **Intereses** :broom:
 - Quidditch :soccer:
