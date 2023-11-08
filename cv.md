@@ -1,4 +1,4 @@
-# **Currículum Vitae de Harry Potter** :sparkles:
+# **Currículum Vitae de Jonas Pitarch** :sparkles:
 
 ## **Información Personal** :mag_right:
 - **Nombre:** Jonás Pitarch
